@@ -20,13 +20,12 @@ Governor (30 days voting period): 0xd35Ed95E173e19CE93525De869BF60BC4AFF7E55
 
 ### Claim GBGL
 
-1. Sign in via Metamask and create new proposal as shown in the video below
+1. Sign in via Metamask and create new proposal as shown in the [tutorial](https://github.com/alekcangp/BGL-DAO/blob/main/tutorial.gif)
 
 2. Wait until the voiting period ends (about for a day)
 
 3. Execute proposal.
 
 
-[tutorial](https://github.com/alekcangp/BGL-DAO/blob/main/tutorial.gif)
 
 
