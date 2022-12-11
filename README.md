@@ -4,7 +4,7 @@ On chain DAO using smart contracts on BSC testnet and Tally for the visual part.
 
 [Bitgesell DeGov (1 day voting period)](https://www.tally.xyz/gov/eip155:97:0xaD6f767A7903750440C632149490ebcCc141C92b)
 
-[Bitgesell DeGov (30 days voting period)](https://www.tally.xyz/gov/eip155:97:0xaD6f767A7903750440C632149490ebcCc141C92b)
+[Bitgesell DeGov (30 days voting period)](https://www.tally.xyz/gov/eip155:97:0xd35Ed95E173e19CE93525De869BF60BC4AFF7E55)
 
 
 ### Contracts
