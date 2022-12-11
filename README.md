@@ -27,6 +27,6 @@ Governor (30 days voting period): 0xd35Ed95E173e19CE93525De869BF60BC4AFF7E55
 3. Execute proposal.
 
 
-![https://github.com/alekcangp/BGL-DAO/blob/main/tutorial.gif](https://github.com/alekcangp/BGL-DAO/blob/main/tutorial.gif)
+[tutorial](https://github.com/alekcangp/BGL-DAO/blob/main/tutorial.gif)
 
 
