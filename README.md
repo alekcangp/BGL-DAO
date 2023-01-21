@@ -1,5 +1,13 @@
 ## Decentralized governance for Bitgesell's community.
 
+## New Governor (7 day voting period): 0xECdE013691c96113fB5Ee66FAeDC855f07a9fA29
+
+Governance BGL token (GBGL): 0x1D52E9D0AC02Bd18C26B364eBe06311fDD3a1683
+
+Voting delay: 28800 blocks ~ 1day. Voting period: 201600 blocks ~1 week. Proposal Threshold: 0. Quorum: 100 GBGL.
+
+## Deprecated
+
 On chain DAO using smart contracts on BSC testnet and Tally for the visual part.
 
 [Bitgesell DeGov (1 day voting period)](https://www.tally.xyz/gov/eip155:97:0xaD6f767A7903750440C632149490ebcCc141C92b)
